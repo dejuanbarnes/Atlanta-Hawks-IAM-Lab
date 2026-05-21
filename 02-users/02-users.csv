@@ -1,0 +1,75 @@
+FirstName,LastName,SamAccountName,UserPrincipalName,Department,OU,Title,Password,Enabled
+Nickeil,Alexander-Walker,nickeil.alexander,nickeil.alexander@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Tony,Bradley,tony.bradley,tony.bradley@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Dyson,Daniels,dyson.daniels,dyson.daniels@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+RayJ,Dennis,rayj.dennis,rayj.dennis@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Keshon,Gilbert,keshon.gilbert,keshon.gilbert@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Mouhamed,Gueye,mouhamed.gueye,mouhamed.gueye@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Buddy,Hield,buddy.hield,buddy.hield@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Caleb,Houstan,caleb.houstan,caleb.houstan@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Jalen,Johnson,jalen.johnson,jalen.johnson@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Corey,Kispert,corey.kispert,corey.kispert@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Christian,Koloko,christian.koloko,christian.koloko@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Jonathan,Kuminga,jonathan.kuminga,jonathan.kuminga@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Jock,Landale,jock.landale,jock.landale@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+CJ,McCollum,cj.mccollum,cj.mccollum@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Asa,Newell,asa.newell,asa.newell@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Onyeka,Okongwu,onyeka.okongwu,onyeka.okongwu@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Zaccharie,Risacher,zaccharie.risacher,zaccharie.risacher@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Gabe,Vincent,gabe.vincent,gabe.vincent@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Keaton,Wallace,keaton.wallace,keaton.wallace@hawks.local,Players,Players,Player,HawksLab@2026!,TRUE
+Quin,Snyder,quin.snyder,quin.snyder@hawks.local,Coaches,Coaches,Coaching Staff,HawksLab@2026!,TRUE
+Assistant,Coach01,assistant.coach01,assistant.coach01@hawks.local,Coaches,Coaches,Coaching Staff,HawksLab@2026!,TRUE
+Assistant,Coach02,assistant.coach02,assistant.coach02@hawks.local,Coaches,Coaches,Coaching Staff,HawksLab@2026!,TRUE
+Assistant,Coach03,assistant.coach03,assistant.coach03@hawks.local,Coaches,Coaches,Coaching Staff,HawksLab@2026!,TRUE
+Player,Development01,player.development01,player.development01@hawks.local,Coaches,Coaches,Coaching Staff,HawksLab@2026!,TRUE
+Player,Development02,player.development02,player.development02@hawks.local,Coaches,Coaches,Coaching Staff,HawksLab@2026!,TRUE
+Video,Coordinator,video.coordinator,video.coordinator@hawks.local,Coaches,Coaches,Coaching Staff,HawksLab@2026!,TRUE
+Strength,Coach,strength.coach,strength.coach@hawks.local,Coaches,Coaches,Coaching Staff,HawksLab@2026!,TRUE
+Onsi,Saleh,onsi.saleh,onsi.saleh@hawks.local,FrontOffice,FrontOffice,Front Office Staff,HawksLab@2026!,TRUE
+Assistant,Gm01,assistant.gm01,assistant.gm01@hawks.local,FrontOffice,FrontOffice,Front Office Staff,HawksLab@2026!,TRUE
+Assistant,Gm02,assistant.gm02,assistant.gm02@hawks.local,FrontOffice,FrontOffice,Front Office Staff,HawksLab@2026!,TRUE
+Basketball,Ops01,basketball.ops01,basketball.ops01@hawks.local,FrontOffice,FrontOffice,Front Office Staff,HawksLab@2026!,TRUE
+Basketball,Ops02,basketball.ops02,basketball.ops02@hawks.local,FrontOffice,FrontOffice,Front Office Staff,HawksLab@2026!,TRUE
+Scouting,Director,scouting.director,scouting.director@hawks.local,FrontOffice,FrontOffice,Front Office Staff,HawksLab@2026!,TRUE
+Scout,East01,scout.east01,scout.east01@hawks.local,FrontOffice,FrontOffice,Front Office Staff,HawksLab@2026!,TRUE
+Scout,West01,scout.west01,scout.west01@hawks.local,FrontOffice,FrontOffice,Front Office Staff,HawksLab@2026!,TRUE
+Cap,Analyst,cap.analyst,cap.analyst@hawks.local,FrontOffice,FrontOffice,Front Office Staff,HawksLab@2026!,TRUE
+Operations,Manager,operations.manager,operations.manager@hawks.local,FrontOffice,FrontOffice,Front Office Staff,HawksLab@2026!,TRUE
+Finance,Director,finance.director,finance.director@hawks.local,Finance,Finance,Finance Staff,HawksLab@2026!,TRUE
+Accountant01,,accountant01,accountant01@hawks.local,Finance,Finance,Finance Staff,HawksLab@2026!,TRUE
+Accountant02,,accountant02,accountant02@hawks.local,Finance,Finance,Finance Staff,HawksLab@2026!,TRUE
+Payroll,Specialist,payroll.specialist,payroll.specialist@hawks.local,Finance,Finance,Finance Staff,HawksLab@2026!,TRUE
+Budget,Analyst,budget.analyst,budget.analyst@hawks.local,Finance,Finance,Finance Staff,HawksLab@2026!,TRUE
+Procurement,Manager,procurement.manager,procurement.manager@hawks.local,Finance,Finance,Finance Staff,HawksLab@2026!,TRUE
+Team,Doctor,team.doctor,team.doctor@hawks.local,Medical,Medical,Medical Staff,HawksLab@2026!,TRUE
+Assistant,Doctor,assistant.doctor,assistant.doctor@hawks.local,Medical,Medical,Medical Staff,HawksLab@2026!,TRUE
+Athletic,Trainer01,athletic.trainer01,athletic.trainer01@hawks.local,Medical,Medical,Medical Staff,HawksLab@2026!,TRUE
+Athletic,Trainer02,athletic.trainer02,athletic.trainer02@hawks.local,Medical,Medical,Medical Staff,HawksLab@2026!,TRUE
+Physical,Therapist01,physical.therapist01,physical.therapist01@hawks.local,Medical,Medical,Medical Staff,HawksLab@2026!,TRUE
+Physical,Therapist02,physical.therapist02,physical.therapist02@hawks.local,Medical,Medical,Medical Staff,HawksLab@2026!,TRUE
+Rehab,Specialist,rehab.specialist,rehab.specialist@hawks.local,Medical,Medical,Medical Staff,HawksLab@2026!,TRUE
+Nutritionist,,nutritionist,nutritionist@hawks.local,Medical,Medical,Medical Staff,HawksLab@2026!,TRUE
+Media,Director,media.director,media.director@hawks.local,Marketing,Marketing,Marketing Staff,HawksLab@2026!,TRUE
+Social,Media01,social.media01,social.media01@hawks.local,Marketing,Marketing,Marketing Staff,HawksLab@2026!,TRUE
+Social,Media02,social.media02,social.media02@hawks.local,Marketing,Marketing,Marketing Staff,HawksLab@2026!,TRUE
+Content,Creator01,content.creator01,content.creator01@hawks.local,Marketing,Marketing,Marketing Staff,HawksLab@2026!,TRUE
+Content,Creator02,content.creator02,content.creator02@hawks.local,Marketing,Marketing,Marketing Staff,HawksLab@2026!,TRUE
+Brand,Manager,brand.manager,brand.manager@hawks.local,Marketing,Marketing,Marketing Staff,HawksLab@2026!,TRUE
+Marketing,Analyst,marketing.analyst,marketing.analyst@hawks.local,Marketing,Marketing,Marketing Staff,HawksLab@2026!,TRUE
+Public,Relations,public.relations,public.relations@hawks.local,Marketing,Marketing,Marketing Staff,HawksLab@2026!,TRUE
+It,Director,it.director,it.director@hawks.local,IT,IT,IT Staff,HawksLab@2026!,TRUE
+It,Admin,it.admin,it.admin@hawks.local,IT,IT,IT Staff,HawksLab@2026!,TRUE
+Identity,Admin,identity.admin,identity.admin@hawks.local,IT,IT,IT Staff,HawksLab@2026!,TRUE
+Security,Analyst,security.analyst,security.analyst@hawks.local,IT,IT,IT Staff,HawksLab@2026!,TRUE
+Cloud,Engineer,cloud.engineer,cloud.engineer@hawks.local,IT,IT,IT Staff,HawksLab@2026!,TRUE
+Network,Engineer,network.engineer,network.engineer@hawks.local,IT,IT,IT Staff,HawksLab@2026!,TRUE
+Systems,Engineer,systems.engineer,systems.engineer@hawks.local,IT,IT,IT Staff,HawksLab@2026!,TRUE
+Helpdesk,Tech01,helpdesk.tech01,helpdesk.tech01@hawks.local,Helpdesk,Helpdesk,Helpdesk Technician,HawksLab@2026!,TRUE
+Helpdesk,Tech02,helpdesk.tech02,helpdesk.tech02@hawks.local,Helpdesk,Helpdesk,Helpdesk Technician,HawksLab@2026!,TRUE
+Helpdesk,Tech03,helpdesk.tech03,helpdesk.tech03@hawks.local,Helpdesk,Helpdesk,Helpdesk Technician,HawksLab@2026!,TRUE
+Desktop,Support01,desktop.support01,desktop.support01@hawks.local,Helpdesk,Helpdesk,Helpdesk Technician,HawksLab@2026!,TRUE
+Desktop,Support02,desktop.support02,desktop.support02@hawks.local,Helpdesk,Helpdesk,Helpdesk Technician,HawksLab@2026!,TRUE
+It,Admin-admin,it.admin-admin,it.admin-admin@hawks.local,Privileged Accounts,Privileged Accounts,Privileged Admin Account,HawksLab@2026!,TRUE
+Identity,Admin-admin,identity.admin-admin,identity.admin-admin@hawks.local,Privileged Accounts,Privileged Accounts,Privileged Admin Account,HawksLab@2026!,TRUE
+Security,Analyst-admin,security.admin,security.admin@hawks.local,Privileged Accounts,Privileged Accounts,Privileged Admin Account,HawksLab@2026!,TRUE

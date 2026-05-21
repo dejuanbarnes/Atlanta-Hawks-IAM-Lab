@@ -1,0 +1,10 @@
+ShareName,FolderPath,ReadGroup,ModifyGroup,FullControlGroup
+PlayersShare,C:\Hawks-IAM-Lab\Shares\Players,,DL-Hawks-Players-Share-RW,
+CoachesShare,C:\Hawks-IAM-Lab\Shares\Coaches,,DL-Hawks-Coaches-Share-RW,
+FrontOfficeShare,C:\Hawks-IAM-Lab\Shares\FrontOffice,,DL-Hawks-FrontOffice-Share-RW,
+FinanceShare,C:\Hawks-IAM-Lab\Shares\Finance,,DL-Hawks-Finance-Share-RW,
+MedicalShare,C:\Hawks-IAM-Lab\Shares\Medical,,DL-Hawks-Medical-Share-RW,
+MarketingShare,C:\Hawks-IAM-Lab\Shares\Marketing,,DL-Hawks-Marketing-Share-RW,
+ITShare,C:\Hawks-IAM-Lab\Shares\IT,,DL-Hawks-IT-Share-RW,
+HelpdeskShare,C:\Hawks-IAM-Lab\Shares\Helpdesk,,DL-Hawks-Helpdesk-Share-RW,
+AdminTools,C:\Hawks-IAM-Lab\Shares\AdminTools,,DL-Hawks-Privileged-Admin-Tools-RW,Domain Admins

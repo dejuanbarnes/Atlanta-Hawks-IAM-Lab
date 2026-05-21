@@ -1,0 +1,14 @@
+OUName,ParentOU,Description
+Hawks,,Root OU for Atlanta Hawks IAM Lab
+Players,Hawks,Player accounts
+Coaches,Hawks,Coaching staff accounts
+FrontOffice,Hawks,Front office accounts
+Finance,Hawks,Finance department accounts
+Medical,Hawks,Medical team accounts
+Marketing,Hawks,Media and marketing accounts
+IT,Hawks,IT department accounts
+Helpdesk,Hawks,Helpdesk accounts
+Privileged Accounts,Hawks,Separated admin accounts
+Disabled Users,Hawks,Disabled and offboarded accounts
+Groups,Hawks,Security groups
+Shared Resources,Hawks,Shared resource objects

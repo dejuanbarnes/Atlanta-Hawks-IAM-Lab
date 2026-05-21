@@ -1,0 +1,13 @@
+ObjectType,ObjectName,ObjectPath,Notes
+Share,PlayersShare,,Remove SMB share only
+Share,CoachesShare,,Remove SMB share only
+Share,FrontOfficeShare,,Remove SMB share only
+Share,FinanceShare,,Remove SMB share only
+Share,MedicalShare,,Remove SMB share only
+Share,MarketingShare,,Remove SMB share only
+Share,ITShare,,Remove SMB share only
+Share,HelpdeskShare,,Remove SMB share only
+Share,AdminTools,,Remove SMB share only
+Folder,,C:\Hawks-IAM-Lab\Shares,Remove all lab shared folders
+OU,Hawks,,Remove root lab OU and everything inside it
+ReportFolder,,C:\Hawks-IAM-Lab\Reports,Optional cleanup of reports
